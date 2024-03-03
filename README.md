@@ -1,6 +1,8 @@
 # unity-miniProject1
 Endless/infinite runner game that can be deployed on desktop platform.
 
+![alt text](https://github.com/maryamsherif/unity-miniProject1/blob/main/screenshots/game.png?raw=true)
+
 ## Gameplay Overview:
 The player controls a sphere that moves forward automatically on an infinite floor. The
 floor is divided into 3 lanes. The player must avoid obstacles while collecting different
